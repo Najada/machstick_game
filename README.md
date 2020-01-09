@@ -7,4 +7,4 @@ When matchsticks are removed, they must be removed starting from the right (like
 The user will always start the game.
 
 
-<img src="">
+<img src="https://github.com/Najada/machstick_game/blob/master/game.gif">
